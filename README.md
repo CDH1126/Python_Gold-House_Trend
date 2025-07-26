@@ -1,6 +1,6 @@
 # Python_Gold-House_Trend
 
-<img width="1541" height="877" alt="image" src="https://github.com/user-attachments/assets/d597510a-cf7f-4a0c-ade3-bd499a585751" />
+<img width="1560" height="882" alt="image" src="https://github.com/user-attachments/assets/9a1c5a4a-f2a8-4a80-a360-217fc5c760bd" />
 
 <img width="1554" height="1047" alt="image" src="https://github.com/user-attachments/assets/61210a18-182e-4f05-b9dd-b65c673b5b57" />
 
